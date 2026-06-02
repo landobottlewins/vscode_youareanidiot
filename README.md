@@ -1,2 +1,2 @@
-# vscode_youareanidiot
-extension that goes to youareanidiot.cc if vscode terminal gives an error
+# Idiot Error
+A perfectly normal extension that definitely doesn't do anything evil.
